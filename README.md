@@ -1,16 +1,13 @@
-# labtest
+💰 TrueMoney Wallet Clone - Flutter
 
-A new Flutter project.
+TrueMoney Wallet Clone คือโปรเจ็กต์จำลองแอป TrueMoney Wallet โดยใช้ Flutter เพื่อสร้างประสบการณ์การใช้งาน (UX/UI) ที่ใกล้เคียงกับแอปจริงมากที่สุด ทั้งในด้าน ดีไซน์ และ การทำธุรกรรมโอนเงิน
 
-## Getting Started
+✨ คุณสมบัติเด่น
+✔️ อินเทอร์เฟซที่สวยงาม และเป็นมิตรกับผู้ใช้
+✔️ ระบบโอนเงินจำลองเสมือนจริง
+✔️ การออกแบบ UX/UI ให้คล้ายกับแอป TrueMoney Wallet
+✔️ ใช้ Flutter และ Dart ในการพัฒนา
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 หมายเหตุ
+🔹 นี่เป็นเพียงการจำลอง เพื่อการศึกษาและพัฒนาเท่านั้น
+🔹 ไม่มีการเชื่อมต่อกับระบบ TrueMoney จริง
